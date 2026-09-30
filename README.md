@@ -34,6 +34,8 @@ were currency conversions.
 
 ## Experience
 
+**TEDxNortheasternU**, Software Engineer · Sep 2026 to present (just started)
+
 **Oasis Jumpstart Program**, Software Developer · Sep to Dec 2025  
 Built the frontend of Challenge Me!, a gamified daily-challenge app, with four other students:
 its feed, voting, video playback and leaderboard in React and Tailwind CSS.
