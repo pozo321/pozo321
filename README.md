@@ -14,7 +14,9 @@ learning, React frontends and some UI design.
 
 **Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
 **Frameworks & Libraries:** React, Tailwind, Flask, FastAPI, Streamlit, JavaFX, pandas, scikit-learn, NumPy  
-**Databases & Tools:** MySQL, ChromaDB, Git, GitHub, Gradle, JUnit 5, Mockito, VS Code
+**Databases:** MySQL, ChromaDB  
+**Developer Tools:** Git, GitHub, VS Code, Eclipse, DataGrip, Jupyter, Gradle, JUnit 5, Mockito, Vercel, Claude Code  
+**Design:** Figma, Adobe Illustrator, Adobe After Effects, Blender
 
 ## Projects
 
